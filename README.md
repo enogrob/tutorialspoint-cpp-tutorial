@@ -27,18 +27,18 @@ C++ Basics
 [x] C++ Constants/Literals
 [x] C++ Modifier Types
 [x] C++ Storage Classes
-[ ] C++ Operators
-[ ] C++ Loop Types
-[ ] C++ Decision Making
-[ ] C++ Functions
-[ ] C++ Numbers
-[ ] C++ Arrays
-[ ] C++ Strings
-[ ] C++ Pointers
-[ ] C++ References
-[ ] C++ Date & Time
-[ ] C++ Basic Input/Output
-[ ] C++ Data Structures
+[x] C++ Operators
+[x] C++ Loop Types
+[x] C++ Decision Making
+[x] C++ Functions
+[x] C++ Numbers
+[x] C++ Arrays
+[x] C++ Strings
+[x] C++ Pointers
+[x] C++ References
+[x] C++ Date & Time
+[x] C++ Basic Input/Output
+[x] C++ Data Structures
 
 C++ Object Oriented
 [ ] C++ Classes & Objects
