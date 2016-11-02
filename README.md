@@ -16,17 +16,17 @@ This is to grasp rapidly the language and its concepts.
 #### Topics
 ```
 C++ Basics
-[ ] C++ Home
-[ ] C++ Overview
-[ ] C++ Environment Setup
-[ ] C++ Basic Syntax
-[ ] C++ Comments
-[ ] C++ Data Types
-[ ] C++ Variable Types
-[ ] C++ Variable Scope
-[ ] C++ Constants/Literals
-[ ] C++ Modifier Types
-[ ] C++ Storage Classes
+[x] C++ Home
+[x] C++ Overview
+[x] C++ Environment Setup
+[x] C++ Basic Syntax
+[x] C++ Comments
+[x] C++ Data Types
+[x] C++ Variable Types
+[x] C++ Variable Scope
+[x] C++ Constants/Literals
+[x] C++ Modifier Types
+[x] C++ Storage Classes
 [ ] C++ Operators
 [ ] C++ Loop Types
 [ ] C++ Decision Making
