@@ -41,24 +41,24 @@ C++ Basics
 [x] C++ Data Structures
 
 C++ Object Oriented
-[ ] C++ Classes & Objects
-[ ] C++ Inheritance
-[ ] C++ Overloading
-[ ] C++ Polymorphism
-[ ] C++ Abstraction
-[ ] C++ Encapsulation
-[ ] C++ Interfaces
+[x] C++ Classes & Objects
+[x] C++ Inheritance
+[x] C++ Overloading
+[x] C++ Polymorphism
+[x] C++ Abstraction
+[x] C++ Encapsulation
+[x] C++ Interfaces
 
 C++ Advanced
-[ ] C++ Files and Streams
-[ ] C++ Exception Handling
-[ ] C++ Dynamic Memory
-[ ] C++ Namespaces
-[ ] C++ Templates
-[ ] C++ Preprocessor
-[ ] C++ Signal Handling
-[ ] C++ Multithreading
-[ ] C++ Web Programming
+[x] C++ Files and Streams
+[x] C++ Exception Handling
+[x] C++ Dynamic Memory
+[x] C++ Namespaces
+[x] C++ Templates
+[x] C++ Preprocessor
+[x] C++ Signal Handling
+[x] C++ Multithreading
+[x] C++ Web Programming
 
 C++ Useful Resources
 [ ] C++ Questions and Answers
