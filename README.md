@@ -16,49 +16,49 @@ This is to grasp rapidly the language and its concepts.
 #### Topics
 ```
 C++ Basics
-[x] C++ Home
-[x] C++ Overview
-[x] C++ Environment Setup
-[x] C++ Basic Syntax
-[x] C++ Comments
-[x] C++ Data Types
-[x] C++ Variable Types
-[x] C++ Variable Scope
-[x] C++ Constants/Literals
-[x] C++ Modifier Types
-[x] C++ Storage Classes
-[x] C++ Operators
-[x] C++ Loop Types
-[x] C++ Decision Making
-[x] C++ Functions
-[x] C++ Numbers
-[x] C++ Arrays
-[x] C++ Strings
-[x] C++ Pointers
-[x] C++ References
-[x] C++ Date & Time
-[x] C++ Basic Input/Output
-[x] C++ Data Structures
+[ ] C++ Home
+[ ] C++ Overview
+[ ] C++ Environment Setup
+[ ] C++ Basic Syntax
+[ ] C++ Comments
+[ ] C++ Data Types
+[ ] C++ Variable Types
+[ ] C++ Variable Scope
+[ ] C++ Constants/Literals
+[ ] C++ Modifier Types
+[ ] C++ Storage Classes
+[ ] C++ Operators
+[ ] C++ Loop Types
+[ ] C++ Decision Making
+[ ] C++ Functions
+[ ] C++ Numbers
+[ ] C++ Arrays
+[ ] C++ Strings
+[ ] C++ Pointers
+[ ] C++ References
+[ ] C++ Date & Time
+[ ] C++ Basic Input/Output
+[ ] C++ Data Structures
 
 C++ Object Oriented
-[x] C++ Classes & Objects
-[x] C++ Inheritance
-[x] C++ Overloading
-[x] C++ Polymorphism
-[x] C++ Abstraction
-[x] C++ Encapsulation
-[x] C++ Interfaces
+[ ] C++ Classes & Objects
+[ ] C++ Inheritance
+[ ] C++ Overloading
+[ ] C++ Polymorphism
+[ ] C++ Abstraction
+[ ] C++ Encapsulation
+[ ] C++ Interfaces
 
 C++ Advanced
-[x] C++ Files and Streams
-[x] C++ Exception Handling
-[x] C++ Dynamic Memory
-[x] C++ Namespaces
-[x] C++ Templates
-[x] C++ Preprocessor
-[x] C++ Signal Handling
-[x] C++ Multithreading
-[x] C++ Web Programming
+[ ] C++ Files and Streams
+[ ] C++ Exception Handling
+[ ] C++ Dynamic Memory
+[ ] C++ Namespaces
+[ ] C++ Templates
+[ ] C++ Preprocessor
+[ ] C++ Signal Handling
+[ ] C++ Multithreading
+[ ] C++ Web Programming
 
 C++ Useful Resources
 [ ] C++ Questions and Answers

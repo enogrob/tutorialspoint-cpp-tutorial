@@ -3,7 +3,7 @@ project(tutorialspoint_cpp_tutorial)
 
 set(CMAKE_CXX_FLAGS "${CMAKE_CXX_FLAGS} -std=c++11")
 
-set(SOURCE_FILES code/main.cpp code/variable_types.cpp code/static_storage.cpp.cpp code/calling_a_function.cpp code/default_value_in_a_function.cpp code/defining_numbers_in_cpp.cpp code/math_operations_in_cpp.cpp code/random_nembers_in_cpp.cpp code/accessing_arrays_elements.cpp code/accessing_arrays_elements.h code/character_string.cpp code/string_class.cpp code/using_pointers_in_cpp.cpp code/creating_references_in_cpp.cpp code/current_date_and_time.cpp code/format_time_using_struct_tm.cpp code/standard_error_stream.cpp code/standard_input_stream.cpp code/standard_clog_stream.cpp code/accessing_structure_members.cpp code/structures_as_functions_arguments.cpp code/pointers_to_structures.cpp code/accessing_data_members.cpp code/base_and_derived_class.cpp code/multiple_inheritances.cpp code/function_overloading.cpp code/operators_overloading.cpp code/polymorphism.cpp code/file_read_write_example.cpp code/exception_handling.cpp code/templates.cpp code/template_class.cpp code/define_preprocessor.cpp code/function_like_macros.cpp code/conditional_compilation.cpp)
+set(SOURCE_FILES code/main.cpp code/variable_types.cpp code/static_storage.cpp.cpp code/calling_a_function.cpp code/default_value_in_a_function.cpp code/defining_numbers_in_cpp.cpp code/math_operations_in_cpp.cpp code/random_nembers_in_cpp.cpp code/accessing_arrays_elements.cpp code/accessing_arrays_elements.h code/character_string.cpp code/string_class.cpp code/using_pointers_in_cpp.cpp code/creating_references_in_cpp.cpp code/current_date_and_time.cpp code/format_time_using_struct_tm.cpp code/standard_error_stream.cpp code/standard_input_stream.cpp code/standard_clog_stream.cpp code/accessing_structure_members.cpp code/structures_as_functions_arguments.cpp code/pointers_to_structures.cpp code/accessing_data_members.cpp code/base_and_derived_class.cpp code/multiple_inheritances.cpp code/function_overloading.cpp code/operators_overloading.cpp code/polymorphism.cpp code/file_read_write_example.cpp code/exception_handling.cpp code/templates.cpp code/template_class.cpp code/define_preprocessor.cpp code/function_like_macros.cpp code/conditional_compilation.cpp code/rotate.cpp)
 add_executable(tutorialspoint_cpp_tutorial ${SOURCE_FILES})
 add_executable(main code/main.cpp)
 add_executable(sizeof code/sizeof.cpp)
@@ -38,3 +38,4 @@ add_executable(exception_handling code/exception_handling.cpp)
 add_executable(templates code/templates.cpp)
 add_executable(define_preprocessor code/define_preprocessor.cpp)
 add_executable(conditional_compilation code/conditional_compilation.cpp)
+add_executable(rotate code/rotate.cpp)
